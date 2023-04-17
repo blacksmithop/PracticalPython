@@ -1,9 +1,13 @@
-# Table of Contents
+---
+description: Python and Data Science concepts simplified
+layout: landing
+---
 
-## Natural Language Processing
+# Practical Python
 
-### [Embedding](table-of-contents/natural-language-processing/embeddings-101/)
+## 1. Natural Language Processing
 
-### Practical Examples
+* ### [Embedding](practical-python/natural-language-processing/embeddings-101/)
+  * Colab Examples:
+    * [Text Embedding and Question Answering](https://colab.research.google.com/drive/1c4yqMtqCP8lUzUl-q0OvAEi1x1WM0VIq?usp=sharing)
 
-* [Text Embedding and Question Answering](https://colab.research.google.com/drive/1c4yqMtqCP8lUzUl-q0OvAEi1x1WM0VIq?usp=sharing)
