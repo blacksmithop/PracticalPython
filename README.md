@@ -8,6 +8,7 @@ layout: landing
 ## 1. Natural Language Processing
 
 * ### [Embedding](table-of-contents/natural-language-processing/embeddings-101/)
-  * Colab Examples:
+  * [Word Embedding](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/)
+  * Examples:
     * [Text Embedding and Question Answering](https://colab.research.google.com/drive/1c4yqMtqCP8lUzUl-q0OvAEi1x1WM0VIq?usp=sharing)
 
