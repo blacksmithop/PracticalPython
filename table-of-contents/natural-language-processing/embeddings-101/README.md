@@ -5,3 +5,7 @@
 ## Why vectorize text?
 
 Machine Learning models don't understand text, only mathematics. When working with text this means converting it into numbers or _vectorizing_ it.
+
+## Contents
+
+* [Word Embeddings](word-embeddings/)
