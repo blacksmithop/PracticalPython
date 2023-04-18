@@ -43,9 +43,9 @@ Make your programs faster
 
 <details>
 
-<summary><a href="http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/sCBNX6AEYb38piYbYTGN/">Concurrency</a></summary>
+<summary>Concurrency</summary>
 
-
+[Overview](http://localhost:5000/s/sCBNX6AEYb38piYbYTGN/)
 
 </details>
 
