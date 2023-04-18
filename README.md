@@ -43,9 +43,9 @@ Make your programs faster
 
 <details>
 
-<summary>Concurrency</summary>
+<summary><a href="./#concurrency">Concurrency</a></summary>
 
-Multiprocessing
+
 
 </details>
 
@@ -57,9 +57,9 @@ Python concepts simplified
 
 <details>
 
-<summary>Concepts</summary>
+<summary><a href="https://blacksmithop.github.io/PythonConcepts/">Concepts</a></summary>
 
-[Documentation](https://blacksmithop.github.io/PythonConcepts/)
+
 
 </details>
 
