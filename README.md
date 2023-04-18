@@ -5,7 +5,7 @@ layout: landing
 
 # Practical Python
 
-## Data Science
+Data Science
 
 {% hint style="info" %}
 AI, ML, Mathematics & Statistics
@@ -46,6 +46,20 @@ Make your programs faster
 <summary>Concurrency</summary>
 
 Multiprocessing
+
+</details>
+
+### Python
+
+{% hint style="info" %}
+Python concepts simplified
+{% endhint %}
+
+<details>
+
+<summary>Concepts</summary>
+
+[Documentation](https://blacksmithop.github.io/PythonConcepts/)
 
 </details>
 
