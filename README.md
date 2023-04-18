@@ -31,7 +31,7 @@ Make deploying your python apps more convenient
 
 <summary>Docker</summary>
 
-[Python apps to Docker Images](./#docker)
+[Dockerize Python Images](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/X2zSGdlerElOUAjFhmji/)
 
 </details>
 
@@ -45,7 +45,7 @@ Make your programs faster
 
 <summary>Concurrency</summary>
 
-[Overview](http://localhost:5000/s/sCBNX6AEYb38piYbYTGN/)
+[Overview](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/sCBNX6AEYb38piYbYTGN/)
 
 </details>
 
