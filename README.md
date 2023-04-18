@@ -5,8 +5,6 @@ layout: landing
 
 # Practical Python
 
-
-
 ## Data Science
 
 {% hint style="info" %}
@@ -53,3 +51,8 @@ Multiprocessing
 
 
 
+Abhinav KM
+
+{% embed url="https://github.com/blacksmithop/PracticalPython" %}
+Repository
+{% endembed %}
