@@ -5,7 +5,7 @@ layout: landing
 
 # Practical Python
 
-Data Science
+## Data Science
 
 {% hint style="info" %}
 AI, ML, Mathematics & Statistics
