@@ -5,7 +5,13 @@ layout: landing
 
 # Practical Python
 
+
+
 ## Data Science
+
+{% hint style="info" %}
+AI, ML, Mathematics & Statistics
+{% endhint %}
 
 <details>
 
@@ -19,11 +25,29 @@ layout: landing
 
 ## Deployment
 
+{% hint style="info" %}
+Make deploying your python apps more convenient
+{% endhint %}
+
 <details>
 
 <summary>Docker</summary>
 
 [Python apps to Docker Images](./#docker)
+
+</details>
+
+## Speedup
+
+{% hint style="info" %}
+Make your programs faster
+{% endhint %}
+
+<details>
+
+<summary>Concurrency</summary>
+
+Multiprocessing
 
 </details>
 
