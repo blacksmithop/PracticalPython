@@ -49,7 +49,7 @@ Make deploying your python apps more convenient
 
 <summary>Frameworks</summary>
 
-[Dearpygui](./#gui)
+[Dearpygui](http://localhost:5000/s/UT3KKighFuDr3MISjroL/)
 
 </details>
 
