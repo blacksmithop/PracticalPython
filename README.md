@@ -43,6 +43,16 @@ Make deploying your python apps more convenient
 
 </details>
 
+## GUI
+
+<details>
+
+<summary>Frameworks</summary>
+
+Dearpygui
+
+</details>
+
 ## Speedup
 
 {% hint style="info" %}
