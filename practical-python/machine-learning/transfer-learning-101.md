@@ -9,3 +9,8 @@ Let's say we have a Machine Learning model that is supposed to tell us whether a
 What if we wanted the same model to tell us whether a particular black cat has stripes as well? Obviously training another ML model for this is not only time-consuming but redundant as well.
 
 This is where Transfer Learning comes in, we take a model trained to do a certain task and teach it to do a related task.
+
+{% embed url="https://youtu.be/3gyeDlZqWko?t=126" %}
+Transfer Learning
+{% endembed %}
+
