@@ -7,11 +7,11 @@ layout: landing
 
 {% tabs %}
 {% tab title="Data Science" %}
+## Data Science
+
 {% hint style="info" %}
 AI, ML, Mathematics & Statistics
 {% endhint %}
-
-## Data Science
 
 ### Natural Language Processing (NLP)
 
@@ -26,15 +26,19 @@ AI, ML, Mathematics & Statistics
 {% endtab %}
 
 {% tab title="Deployment" %}
+## Docker
+
 {% hint style="info" %}
 Make deploying your python apps more convenient
 {% endhint %}
 
-## Docker
-
 [Dockerize yout Python ](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/X2zSGdlerElOUAjFhmji/)application
 
 ## Frameworks
+
+{% hint style="info" %}
+Making web apps made easy
+{% endhint %}
 
 ### [aiohttp](http://localhost:5000/s/ED1WZBWNPSChckHZ8Gxd/python-web-frameworks/aiohttp)
 {% endtab %}
@@ -43,28 +47,28 @@ Make deploying your python apps more convenient
 ## UI
 
 {% hint style="info" %}
-Create elegant UI easily
+Create UI made easier
 {% endhint %}
 
 [Dearpygui](http://localhost:5000/s/UT3KKighFuDr3MISjroL/)
 {% endtab %}
 
 {% tab title="Performance" %}
-{% hint style="info" %}
-Make your programs faster
-{% endhint %}
-
 ## Concurrency
+
+{% hint style="info" %}
+Making programs more performant
+{% endhint %}
 
 [Overview](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/sCBNX6AEYb38piYbYTGN/)
 {% endtab %}
 
 {% tab title="Python" %}
+## [Concepts](https://blacksmithop.github.io/PythonConcepts/)
+
 {% hint style="info" %}
 Python concepts simplified
 {% endhint %}
-
-## [Concepts](https://blacksmithop.github.io/PythonConcepts/)
 {% endtab %}
 {% endtabs %}
 
