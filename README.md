@@ -21,6 +21,14 @@ AI, ML, Mathematics & Statistics
 
 </details>
 
+<details>
+
+<summary>Machine Learning (ML)</summary>
+
+* [Transfer Learning](practical-python/machine-learning/transfer-learning-101.md)
+
+</details>
+
 ## Deployment
 
 {% hint style="info" %}
