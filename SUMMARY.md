@@ -6,4 +6,5 @@
       * [Word Embeddings](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/README.md)
         * [One-hot encoding](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/one-hot-encoding.md)
         * [Numerical encoding](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/numerical-encoding.md)
-  * [Machine Learning](practical-python/machine-learning.md)
+  * [Machine Learning](practical-python/machine-learning/README.md)
+    * [Transfer Learning 101](practical-python/machine-learning/transfer-learning-101.md)
