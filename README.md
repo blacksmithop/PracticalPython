@@ -74,6 +74,8 @@ Python concepts simplified
 
 ## Abhinav KM
 
-{% embed url="https://github.com/blacksmithop/PracticalPython" %}
-Repository
-{% endembed %}
+{% tabs %}
+{% tab title="Contact" %}
+[Github](https://github.com/blacksmithop) [StackOverflow](https://stackoverflow.com/users/11323371/insertcheesyline)
+{% endtab %}
+{% endtabs %}
