@@ -58,25 +58,17 @@ Make your programs faster
 
 [Overview](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/sCBNX6AEYb38piYbYTGN/)
 {% endtab %}
-{% endtabs %}
 
-### Python
-
+{% tab title="Python" %}
 {% hint style="info" %}
 Python concepts simplified
 {% endhint %}
 
-<details>
+## [Concepts](https://blacksmithop.github.io/PythonConcepts/)
+{% endtab %}
+{% endtabs %}
 
-<summary><a href="https://blacksmithop.github.io/PythonConcepts/">Concepts</a></summary>
-
-
-
-</details>
-
-
-
-Abhinav KM
+## Abhinav KM
 
 {% embed url="https://github.com/blacksmithop/PracticalPython" %}
 Repository
