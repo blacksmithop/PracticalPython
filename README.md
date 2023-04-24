@@ -5,75 +5,60 @@ layout: landing
 
 # Practical Python
 
-## Data Science
-
+{% tabs %}
+{% tab title="Data Science" %}
 {% hint style="info" %}
 AI, ML, Mathematics & Statistics
 {% endhint %}
 
-<details>
+## Data Science
 
-<summary>Natural Language Processing (NLP)</summary>
+### Natural Language Processing (NLP)
 
-* ### [Embedding](table-of-contents/natural-language-processing/embeddings-101/)
-  * [Word Embedding](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/)
-    * [Text Embedding and Question Answering](https://colab.research.google.com/drive/1c4yqMtqCP8lUzUl-q0OvAEi1x1WM0VIq?usp=sharing)
+### [Embedding](table-of-contents/natural-language-processing/embeddings-101/)
 
-</details>
+* [Word Embedding](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/)
+  * [Text Embedding and Question Answering](https://colab.research.google.com/drive/1c4yqMtqCP8lUzUl-q0OvAEi1x1WM0VIq?usp=sharing)
 
-<details>
+## Machine Learning (ML)
 
-<summary>Machine Learning (ML)</summary>
+### [Transfer Learning](practical-python/machine-learning/transfer-learning-101.md)
+{% endtab %}
 
-* [Transfer Learning](practical-python/machine-learning/transfer-learning-101.md)
-
-</details>
-
-## Deployment
-
+{% tab title="Deployment" %}
 {% hint style="info" %}
 Make deploying your python apps more convenient
 {% endhint %}
 
-<details>
+## Docker
 
-<summary>Web Frameworks</summary>
+[Dockerize yout Python ](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/X2zSGdlerElOUAjFhmji/)application
 
-[aiohttp](http://localhost:5000/s/ED1WZBWNPSChckHZ8Gxd/python-web-frameworks/aiohttp)
+## Frameworks
 
-</details>
+### [aiohttp](http://localhost:5000/s/ED1WZBWNPSChckHZ8Gxd/python-web-frameworks/aiohttp)
+{% endtab %}
 
-<details>
+{% tab title="GUI" %}
+## UI
 
-<summary>Docker</summary>
-
-[Dockerize Python Images](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/X2zSGdlerElOUAjFhmji/)
-
-</details>
-
-## GUI
-
-<details>
-
-<summary>Frameworks</summary>
+{% hint style="info" %}
+Create elegant UI easily
+{% endhint %}
 
 [Dearpygui](http://localhost:5000/s/UT3KKighFuDr3MISjroL/)
+{% endtab %}
 
-</details>
-
-## Speedup
-
+{% tab title="Performance" %}
 {% hint style="info" %}
 Make your programs faster
 {% endhint %}
 
-<details>
-
-<summary>Concurrency</summary>
+## Concurrency
 
 [Overview](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/sCBNX6AEYb38piYbYTGN/)
-
-</details>
+{% endtab %}
+{% endtabs %}
 
 ### Python
 
