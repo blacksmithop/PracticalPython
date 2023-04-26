@@ -70,6 +70,11 @@ Making programs more performant
 Python concepts simplified
 {% endhint %}
 {% endtab %}
+
+{% tab title="Libraries" %}
+* Microsoft Authentication
+  * [MSAL](http://localhost:5000/s/fckzwB5R6ILdeDMeb8UE/)
+{% endtab %}
 {% endtabs %}
 
 ## Abhinav KM
