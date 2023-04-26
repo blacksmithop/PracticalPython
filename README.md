@@ -72,6 +72,10 @@ Python concepts simplified
 {% endtab %}
 
 {% tab title="Libraries" %}
+{% hint style="info" %}
+Authentication
+{% endhint %}
+
 * Microsoft Authentication
   * [MSAL](http://localhost:5000/s/fckzwB5R6ILdeDMeb8UE/)
 {% endtab %}
