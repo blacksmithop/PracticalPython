@@ -2,7 +2,7 @@
 description: Python and Data Science concepts simplified
 ---
 
-# Practical Python
+# 🐍 Practical Python
 
 {% tabs %}
 {% tab title="Data Science" %}
@@ -28,10 +28,10 @@ AI, ML, Mathematics & Statistics
 ## Docker
 
 {% hint style="info" %}
-Make deploying your python apps more convenient
+Make deploying your Python apps more convenient
 {% endhint %}
 
-[Dockerize yout Python ](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/X2zSGdlerElOUAjFhmji/)application
+[Dockerize your Python ](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/X2zSGdlerElOUAjFhmji/)application
 
 ## Frameworks
 
