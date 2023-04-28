@@ -2,7 +2,7 @@
 description: Convert your python applications into docker containers
 ---
 
-# Dockerize your python application
+# 📦 Dockerize your python application
 
 ### 1. Create a `Dockerfile`
 
