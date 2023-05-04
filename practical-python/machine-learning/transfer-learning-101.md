@@ -2,7 +2,7 @@
 description: Optimizing pre-trained models to suit our needs
 ---
 
-# Transfer Learning 101
+# 🟠 Transfer Learning 101
 
 Let's say we have a Machine Learning model that is supposed to tell us whether a Cat is black or not. It does its job very well and doesn't mix up colors.
 

@@ -2,7 +2,7 @@
 description: Word embedding concepts implemented
 ---
 
-# Word Embeddings
+# ⏺ Word Embeddings
 
 ### Word encoding methods
 

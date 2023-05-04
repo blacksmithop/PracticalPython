@@ -2,6 +2,6 @@
 description: NLP Concepts explained
 ---
 
-# Natural Language Processing
+# 🈯 Natural Language Processing
 
 ## 1.[ Embeddings 101](embeddings-101/)

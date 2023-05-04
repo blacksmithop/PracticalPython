@@ -1,4 +1,4 @@
-# One-hot encoding
+# 🔴 One-hot encoding
 
 Let's say we have a piece of text
 

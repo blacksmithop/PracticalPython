@@ -1,4 +1,4 @@
-# Embeddings 101
+# 🟡 Embeddings 101
 
 ## [Google Colab link](https://colab.research.google.com/drive/1Xk-MtR6Dv4mFs\_UIWHQKu5eR5IMPmJhX?usp=sharing)
 
