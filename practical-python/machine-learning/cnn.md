@@ -6,6 +6,6 @@ description: Convolutional Neural Networks explained
 
 ## Why use CNNs?
 
-Neural Networks do great at recognizing patterns much like the human brain. They work great for most tasks unless those happen to fall under language or image processing.
+[Neural Networks](neural-networks.md) do great at recognizing patterns much like the human brain. They work great for most tasks unless those happen to fall under language or image processing.
 
 This is where CNNs shine
