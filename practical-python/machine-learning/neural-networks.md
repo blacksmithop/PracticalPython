@@ -2,7 +2,11 @@
 description: How do they compare to actual neurons
 ---
 
-# Neural Networks
+# 🧠 Neural Networks
+
+A typical Neural Network consists of three layers
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Neural Network</p></figcaption></figure>
 
 When learning about Neural Networks it helps to think of Neurons which are its building blocks. While Neurons in a network might not have a myelin sheath, axons or the rest of the biological machinery they still fire much like a biological neuron.
 
