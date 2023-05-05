@@ -1,4 +1,4 @@
-# Hypervisors explained
+# 🪞 Hypervisors explained
 
 You might have heard of Virtual Private Servers or VPS for short. Many cloud providers offer VPS services at relatively cheap rates. You might wonder how they do that since the computer offered often has a fraction of the specs you would expect in an actual server.
 

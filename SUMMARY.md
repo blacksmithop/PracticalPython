@@ -7,5 +7,5 @@
 
 ## ♟ Theory
 
-* [Hypervisors explained](theory/hypervisors-explained.md)
+* [🪞 Hypervisors explained](theory/hypervisors-explained.md)
 * [❓ Why use containers](theory/why-use-containers.md)
