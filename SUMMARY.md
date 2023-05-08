@@ -7,5 +7,6 @@
 
 ## ♟ Theory
 
-* [🪞 Hypervisors explained](theory/hypervisors-explained.md)
+* [🧀 Cache](theory/cache.md)
+* [🪞 Hypervisors](theory/hypervisors.md)
 * [❓ Why use containers](theory/why-use-containers.md)
