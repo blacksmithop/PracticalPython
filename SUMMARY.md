@@ -1,12 +1,13 @@
 # Table of contents
 
-* [🐍 Practical Python](README.md)
-  * [🈯 Natural Language Processing](table-of-contents/natural-language-processing/README.md)
-    * [🟡 Embeddings 101](table-of-contents/natural-language-processing/embeddings-101/README.md)
-      * [⏺ Word Embeddings](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/README.md)
-        * [🔴 One-hot encoding](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/one-hot-encoding.md)
-        * [1⃣ Numerical encoding](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/numerical-encoding.md)
-  * [🤖 Machine Learning](practical-python/machine-learning/README.md)
-    * [🧠 Neural Networks](practical-python/machine-learning/neural-networks.md)
-    * [📓 CNN](practical-python/machine-learning/cnn.md)
-    * [🟠 Transfer Learning 101](practical-python/machine-learning/transfer-learning-101.md)
+## Scenarios
+
+* [📦 Dockerize your python application](README.md)
+* [💡 Build a lightweight docker image](build-a-lightweight-docker-image.md)
+
+## ♟ Theory
+
+* [Linux namespaces](theory/linux-namespaces.md)
+* [🧀 Cache](theory/cache.md)
+* [🪞 Hypervisors](theory/hypervisors.md)
+* [❓ Why use containers](theory/why-use-containers.md)
