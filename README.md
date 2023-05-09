@@ -96,9 +96,3 @@ Authentication
 {% endtabs %}
 
 ## Abhinav KM
-
-{% tabs %}
-{% tab title="Contact" %}
-[Github](https://github.com/blacksmithop) [StackOverflow](https://stackoverflow.com/users/11323371/insertcheesyline)
-{% endtab %}
-{% endtabs %}
