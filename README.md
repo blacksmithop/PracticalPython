@@ -22,6 +22,10 @@ AI, ML, Mathematics & Statistics
 ## Machine Learning (ML)
 
 ### [Transfer Learning](practical-python/machine-learning/transfer-learning-101.md)
+
+* [Neural Networks](practical-python/machine-learning/neural-networks.md)
+* [Convolutional Neural Networks](practical-python/machine-learning/cnn.md)
+* [Transfer Learning](practical-python/machine-learning/transfer-learning-101.md)
 {% endtab %}
 
 {% tab title="Deployment" %}
@@ -31,7 +35,9 @@ AI, ML, Mathematics & Statistics
 Make deploying your Python apps more convenient
 {% endhint %}
 
-[Dockerize your Python ](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/X2zSGdlerElOUAjFhmji/)application
+* [Dockerize your Python application ](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/X2zSGdlerElOUAjFhmji/)
+* [Making images lighter](http://localhost:5000/s/X2zSGdlerElOUAjFhmji/scenarios/build-a-lightweight-docker-image)
+* [Underlying concepts](http://localhost:5000/s/X2zSGdlerElOUAjFhmji/theory)
 
 ## Version management
 
@@ -39,7 +45,7 @@ Make deploying your Python apps more convenient
 Manage multiple python versions
 {% endhint %}
 
-[Pyenv](http://localhost:5000/s/genRyVB4xsgf1wpniqQt/tools/python-version-management)
+* [pyenv](http://localhost:5000/s/genRyVB4xsgf1wpniqQt/tools/python-version-management)
 
 ## Frameworks
 
@@ -47,7 +53,7 @@ Manage multiple python versions
 Making web apps made easy
 {% endhint %}
 
-### [aiohttp](http://localhost:5000/s/ED1WZBWNPSChckHZ8Gxd/python-web-frameworks/aiohttp)
+* [aiohttp](http://localhost:5000/s/ED1WZBWNPSChckHZ8Gxd/python-web-frameworks/aiohttp)
 {% endtab %}
 
 {% tab title="GUI" %}
@@ -57,7 +63,7 @@ Making web apps made easy
 Create UI made easier
 {% endhint %}
 
-[Dearpygui](http://localhost:5000/s/UT3KKighFuDr3MISjroL/)
+* [dearpygui](http://localhost:5000/s/UT3KKighFuDr3MISjroL/)
 {% endtab %}
 
 {% tab title="Performance" %}
@@ -67,11 +73,11 @@ Create UI made easier
 Making programs more performant
 {% endhint %}
 
-[Overview](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/sCBNX6AEYb38piYbYTGN/)
+* [Introduction](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/sCBNX6AEYb38piYbYTGN/)
 {% endtab %}
 
 {% tab title="Python" %}
-## [Concepts](https://blacksmithop.github.io/PythonConcepts/)
+## [Blog](https://blacksmithop.github.io/PythonConcepts/)
 
 {% hint style="info" %}
 Python concepts simplified
@@ -85,7 +91,7 @@ Authentication
 
 * Microsoft Authentication
   * [MSAL](http://localhost:5000/s/fckzwB5R6ILdeDMeb8UE/msal/get-access-token)
-    * [Microsoft Integration 101](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/ONi4oyj9w40H5N8jtbzu/)
+    * [Microsoft Integration](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/ONi4oyj9w40H5N8jtbzu/)
 {% endtab %}
 {% endtabs %}
 
