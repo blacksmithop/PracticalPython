@@ -1,97 +1,98 @@
 ---
-description: Convert your python applications into docker containers
+description: Python and Data Science concepts simplified
 ---
 
-# 📦 Dockerize your python application
+# 🐍 Practical Python
 
-### 1. Create a `Dockerfile`
+{% tabs %}
+{% tab title="Data Science" %}
+## Data Science
 
-`Dockerfile` syntax
+{% hint style="info" %}
+AI, ML, Mathematics & Statistics
+{% endhint %}
 
-```dockerfile
-# syntax=docker/dockerfile:1
+### Natural Language Processing (NLP)
 
-FROM python:3.8-slim-buster
+### [Embedding](table-of-contents/natural-language-processing/embeddings-101/)
 
-WORKDIR /code
+* [Word Embedding](table-of-contents/natural-language-processing/embeddings-101/word-embeddings/)
+  * [Text Embedding and Question Answering](https://colab.research.google.com/drive/1c4yqMtqCP8lUzUl-q0OvAEi1x1WM0VIq?usp=sharing)
 
-# install dependencies
+## Machine Learning (ML)
 
-COPY ./requirements.txt /code/requirements.txt
+### [Transfer Learning](practical-python/machine-learning/transfer-learning-101.md)
+{% endtab %}
 
-RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
+{% tab title="Deployment" %}
+## Docker
 
-# Use cached packages if requirements haven't changed
+{% hint style="info" %}
+Make deploying your Python apps more convenient
+{% endhint %}
 
-COPY ./app /code/app
+[Dockerize your Python ](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/X2zSGdlerElOUAjFhmji/)application
 
-COPY ./static /code/static
+## Version management
 
-EXPOSE 8080
+{% hint style="info" %}
+Manage multiple python versions
+{% endhint %}
 
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "80"]
-```
+[Pyenv](http://localhost:5000/s/genRyVB4xsgf1wpniqQt/tools/python-version-management)
 
-| Instruction | Desciption                                                                                               |
-| ----------- | -------------------------------------------------------------------------------------------------------- |
-| FROM        | The base image to use for our container, for a python application this can be `python:buster`            |
-| WORKDIR     | This is the working directory for our application. We copy our application code to this folder           |
-| COPY        | Copy files and folders to working directory, files can be ignore by creating a `.dockerignore` file      |
-| EXPOSE      | The port we want the docker container to expose, we forward this to an external port eg `5000` -> `8080` |
-| CMD         | The command to run your python application                                                               |
+## Frameworks
 
-### 2. Create a `docker-compose.yml`
+{% hint style="info" %}
+Making web apps made easy
+{% endhint %}
 
-```yml
-version: '1'
+### [aiohttp](http://localhost:5000/s/ED1WZBWNPSChckHZ8Gxd/python-web-frameworks/aiohttp)
+{% endtab %}
 
-services:
+{% tab title="GUI" %}
+## UI
 
-  service_name:
-    container_name: PythonApiService
-    build: .
-    image: author/name_of_image
-    
-    ports:
-      - "80:80"
+{% hint style="info" %}
+Create UI made easier
+{% endhint %}
 
-    volumes:
-      - .:/code
+[Dearpygui](http://localhost:5000/s/UT3KKighFuDr3MISjroL/)
+{% endtab %}
 
-    environment:
-      API_KEY: <api_key>
-```
+{% tab title="Performance" %}
+## Concurrency
 
-### 3. Docker compose
+{% hint style="info" %}
+Making programs more performant
+{% endhint %}
 
-```sh
-docker compose up -d
-```
+[Overview](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/sCBNX6AEYb38piYbYTGN/)
+{% endtab %}
 
-Builds a image and runs the container based on your `Dockerfile`. The `-d` stands for detached here.
+{% tab title="Python" %}
+## [Concepts](https://blacksmithop.github.io/PythonConcepts/)
 
-**Example:**
+{% hint style="info" %}
+Python concepts simplified
+{% endhint %}
+{% endtab %}
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Images</p></figcaption></figure>
+{% tab title="Libraries" %}
+{% hint style="info" %}
+Authentication
+{% endhint %}
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Containers</p></figcaption></figure>
+* Microsoft Authentication
+  * [MSAL](http://localhost:5000/s/fckzwB5R6ILdeDMeb8UE/msal/get-access-token)
+    * [Microsoft Integration 101](http://localhost:5000/o/CHCI6UQGUTiOTozJw7eL/s/ONi4oyj9w40H5N8jtbzu/)
+{% endtab %}
+{% endtabs %}
 
-This container can now be accessed at http://localhost:80
+## Abhinav KM
 
-#### How to manually deploy your Docker container
-
-Firstly `cd` into the directory which has the `Dockerfile`
-
-**1. Create an image with**
-
-`docker build -t author/image_name .`
-
-**2. Run the container with required parameters**
-
-`docker run -d --name container-name -e API_KEY=<api-key> -p 80:80 author/image_name`
-
-| Argument | Description                                                                                                                    |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| `-e`     | Environment variables to be used inside your container, like api-keys, database names, connection strings etc                  |
-| `-p`     | Port mapping from your host to the docker network eg: `-p host-port:container-port`                                            |
-| `-d`     | Tells docker to run this container detached. You will need Docker desktop (Windows) or use `docker logs` to see container logs |
+{% tabs %}
+{% tab title="Contact" %}
+[Github](https://github.com/blacksmithop) [StackOverflow](https://stackoverflow.com/users/11323371/insertcheesyline)
+{% endtab %}
+{% endtabs %}
