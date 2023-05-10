@@ -7,7 +7,7 @@
 
 ## ♟ Theory
 
-* [Container Ecosystem](theory/container-ecosystem.md)
+* [🌍 Container Ecosystem](theory/container-ecosystem.md)
 * [🐝 Docker Swarm](theory/docker-swarm.md)
 * [😋 Linux namespaces](theory/linux-namespaces.md)
 * [🧀 Cache](theory/cache.md)
