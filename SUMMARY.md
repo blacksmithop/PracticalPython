@@ -7,7 +7,8 @@
 
 ## ♟ Theory
 
-* [Linux namespaces](theory/linux-namespaces.md)
+* [🐝 Docker Swarm](theory/docker-swarm.md)
+* [😋 Linux namespaces](theory/linux-namespaces.md)
 * [🧀 Cache](theory/cache.md)
 * [🪞 Hypervisors](theory/hypervisors.md)
 * [❓ Why use containers](theory/why-use-containers.md)
