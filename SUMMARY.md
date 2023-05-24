@@ -14,6 +14,6 @@
 * [🪞 Hypervisors](theory/hypervisors.md)
 * [❓ Why use containers](theory/why-use-containers.md)
 
-## Group 1
+## 🛠 Development
 
-* [Dev Environment](group-1/dev-environment.md)
+* [🤖 Test Environment](development/test-environment.md)

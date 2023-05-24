@@ -2,21 +2,21 @@
 description: Use docker containers as your staging environment
 ---
 
-# Dev Environment
+# 🤖 Test Environment
 
-## Pull image
+## <mark style="color:green;">Pull</mark> image
 
 ```sh
 docker pull ubuntu
 ```
 
-## Create container
+## <mark style="color:yellow;">Create</mark> container
 
 ```sh
 docker run --name ubuntu_dev ubuntu
 ```
 
-## Open terminal in container
+## <mark style="color:purple;">Open</mark> terminal in container
 
 ```sh
 docker exec -it ubuntu_dev bash
