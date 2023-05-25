@@ -6,7 +6,7 @@ This is referred to as Term Frequency
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Equation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Equation</p></figcaption></figure>
 
 </div>
 

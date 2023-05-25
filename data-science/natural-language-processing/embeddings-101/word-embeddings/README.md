@@ -15,6 +15,6 @@ Word embeddings in short are a dense, efficient representation where similar wor
 
 Much like how you train a Machine Learning model to learn it's weights, the values for embedding are trainable parameters.&#x20;
 
-![](../../../../.gitbook/assets/image.png)
+![](<../../../../.gitbook/assets/image (3).png>)
 
 A _higher_ dimensional embedding can capture precise relationships between words but in exchange take more data to learn.
