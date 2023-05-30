@@ -2,7 +2,7 @@
 description: Simplify app development & deployment with CI/CD
 ---
 
-# Github Action
+# 🌵 GitHub Action
 
 * [ ] Create a `.github` folder with a `workflows` folder inside
 *   [ ] Create a `action_name.yml` file inside

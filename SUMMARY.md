@@ -20,4 +20,4 @@
 
 ## 🟢 CI / CD
 
-* [Github Action](ci-cd/github-action.md)
+* [🌵 GitHub Action](ci-cd/github-action.md)
