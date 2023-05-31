@@ -8,11 +8,9 @@ description: Making python development simpler
 
 
 
-## Abhinav KM
-
 <details>
 
-<summary>Socials</summary>
+<summary>Abhinav KM</summary>
 
 <img src="https://stackoverflow-card.vercel.app/?userID=11323371&#x26;theme=dracula" alt="" data-size="original">
 
