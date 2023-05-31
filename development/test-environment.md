@@ -10,11 +10,16 @@ description: Use docker containers as your staging environment
 docker pull ubuntu
 ```
 
-## <mark style="color:yellow;">Create</mark> container
+## <mark style="color:yellow;">Create</mark> a container
 
 ```sh
-docker run --name ubuntu_dev ubuntu
+docker run -it --name ubuntu_dev ubuntu
 ```
+
+{% hint style="info" %}
+Ensure your `ubuntu_dev` is running with docker ps.\
+If not start it again. This is important!
+{% endhint %}
 
 ## <mark style="color:purple;">Open</mark> terminal in container
 
