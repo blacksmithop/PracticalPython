@@ -14,6 +14,6 @@ description: Making python development simpler
 
 <img src="https://stackoverflow-card.vercel.app/?userID=11323371&#x26;theme=dracula" alt="" data-size="original">
 
-
+[Playlist 🎵🎶](http://localhost:5000/s/jaM0e9laIKlt4UhadBjV/)
 
 </details>
