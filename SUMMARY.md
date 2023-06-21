@@ -15,6 +15,7 @@
   * [🧠 Neural Networks](data-science/machine-learning/neural-networks.md)
   * [📓 CNN](data-science/machine-learning/cnn.md)
   * [🟠 Transfer Learning 101](data-science/machine-learning/transfer-learning-101.md)
+* [📅 Data Ingestion](data-science/data-ingestion.md)
 
 ## 🤖 Transformers
 
