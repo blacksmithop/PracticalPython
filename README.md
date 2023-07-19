@@ -72,9 +72,9 @@ Builds a image and runs the container based on your `Dockerfile`. The `-d` stand
 
 **Example:**
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Images</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Images</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Containers</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Containers</p></figcaption></figure>
 
 This container can now be accessed at http://localhost:80
 
