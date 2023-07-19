@@ -1,23 +1,24 @@
 # Table of contents
 
-* [🐍 Practical Python](README.md)
+## Scenarios
 
-## 🔬 data science
+* [📦 Dockerize your python application](README.md)
+* [💡 Build a lightweight docker image](build-a-lightweight-docker-image.md)
 
-* [🌳 Contents](data-science/contents.md)
-* [📖 Natural Language Processing](data-science/natural-language-processing/README.md)
-  * [🟡 Embeddings 101](data-science/natural-language-processing/embeddings-101/README.md)
-    * [⏺ Word Embeddings](data-science/natural-language-processing/embeddings-101/word-embeddings/README.md)
-      * [🔴 One-hot encoding](data-science/natural-language-processing/embeddings-101/word-embeddings/one-hot-encoding.md)
-      * [1⃣ Numerical encoding](data-science/natural-language-processing/embeddings-101/word-embeddings/numerical-encoding.md)
-  * [🔢 Term Frequency](data-science/natural-language-processing/term-frequency.md)
-* [🤖 Machine Learning](data-science/machine-learning/README.md)
-  * [🧠 Neural Networks](data-science/machine-learning/neural-networks.md)
-  * [📓 CNN](data-science/machine-learning/cnn.md)
-  * [🟠 Transfer Learning 101](data-science/machine-learning/transfer-learning-101.md)
-* [📅 Data Ingestion](data-science/data-ingestion.md)
+## ♟ Theory
 
-## 🤖 Transformers
+* [🐋 Containers](theory/containers.md)
+* [🌍 Container Ecosystem](theory/container-ecosystem.md)
+* [🐝 Docker Swarm](theory/docker-swarm.md)
+* [😋 Linux namespaces](theory/linux-namespaces.md)
+* [🧀 Cache](theory/cache.md)
+* [🪞 Hypervisors](theory/hypervisors.md)
+* [❓ Why use containers](theory/why-use-containers.md)
 
-* [🪜 Introduction](transformers/introduction.md)
-* [🤓 Reference](transformers/reference.md)
+## 🛠 Development
+
+* [🤖 Test Environment](development/test-environment.md)
+
+## 🟢 CI / CD
+
+* [🌵 GitHub Action](ci-cd/github-action.md)

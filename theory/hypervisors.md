@@ -6,4 +6,4 @@ Virtual Private Servers or VPS are virtual environments on a physical server. Th
 
 VPS hosting is often more affordable than a dedicated/cloud server.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
