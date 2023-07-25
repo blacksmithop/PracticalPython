@@ -1,24 +1,57 @@
 # Table of contents
 
-## Scenarios
+## 🅰 Azure - MSAL (Authentication)
 
-* [📦 Dockerize your python application](README.md)
-* [💡 Build a lightweight docker image](build-a-lightweight-docker-image.md)
+* [🗳 Container Apps](README.md)
+* [🗝 OAuth2 Authorization](azure-msal-authentication/oauth2-authorization.md)
+* [🤝 Get Access Token](azure-msal-authentication/get-access-token.md)
+* [🟢 Getting started](azure-msal-authentication/getting-started.md)
+* [🔧 Configuration](azure-msal-authentication/configuration.md)
 
-## ♟ Theory
+## 💡 Spark NLP
 
-* [🐋 Containers](theory/containers.md)
-* [🌍 Container Ecosystem](theory/container-ecosystem.md)
-* [🐝 Docker Swarm](theory/docker-swarm.md)
-* [😋 Linux namespaces](theory/linux-namespaces.md)
-* [🧀 Cache](theory/cache.md)
-* [🪞 Hypervisors](theory/hypervisors.md)
-* [❓ Why use containers](theory/why-use-containers.md)
+* [⚡ Spark NER](spark-nlp/spark-ner.md)
 
-## 🛠 Development
+## GUI
 
-* [🤖 Test Environment](development/test-environment.md)
+* [🐦 Dearpygui](gui/dearpygui.md)
 
-## 🟢 CI / CD
+## concurrency
 
-* [🌵 GitHub Action](ci-cd/github-action.md)
+* [🛣 Introduction](concurrency/introduction.md)
+
+## Databases
+
+* [🗃 Sqlite3](databases/sqlite3.md)
+
+## 💻 Web
+
+* [🕸 aiohttp](web/aiohttp.md)
+
+## 🤑 Salesforce
+
+* [🍎 Create app](salesforce/create-app.md)
+* [🔁 Connected App](salesforce/connected-app.md)
+* [😁 simple\_salesforce](salesforce/simple\_salesforce.md)
+* [🧑🦰 simple\_salesforce: Add Contact](salesforce/simple\_salesforce-add-contact.md)
+* [😗 simple\_salesforce: Add Lead](salesforce/simple\_salesforce-add-lead.md)
+* [🔳 Custom Button Layout](salesforce/custom-button-layout.md)
+* [🌊 Flow](salesforce/flow.md)
+* [🔐 Credentials](salesforce/credentials.md)
+* [❔ Design Idea](salesforce/design-idea.md)
+* [🍿 Create Custom Object](salesforce/create-custom-object.md)
+* [🌏 Use External API](salesforce/use-external-api.md)
+
+## ⚡ Lightning Web Component
+
+* [⛈ Lightning Web Component Creation](lightning-web-component/lightning-web-component-creation.md)
+* [👶 Basics](lightning-web-component/basics.md)
+* [🖖 Data Binding](lightning-web-component/data-binding.md)
+
+## 👨⚕ Docx
+
+* [📖 docxtpl - Dynamic table](docx/docxtpl-dynamic-table.md)
+
+## ☄ PubSub
+
+* [👻 Publisher Subscriber Model](pubsub/publisher-subscriber-model.md)
