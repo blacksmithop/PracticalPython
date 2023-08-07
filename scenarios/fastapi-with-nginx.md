@@ -2,7 +2,7 @@
 description: Run your FastAPI server behind a Nginx proxy
 ---
 
-# FastApi-Nginx
+# ⚡ FastApi with Nginx
 
 ### Create FastApi application
 

@@ -4,7 +4,7 @@
 
 * [📦 Dockerize your python application](README.md)
 * [💡 Build a lightweight docker image](build-a-lightweight-docker-image.md)
-* [FastApi-Nginx](scenarios/fastapi-nginx.md)
+* [⚡ FastApi with Nginx](scenarios/fastapi-with-nginx.md)
 
 ## ♟ Theory
 
