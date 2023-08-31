@@ -15,3 +15,9 @@ description: Face Recognition using Siamese Networks
 The distance between two similar images (having the same label) will be lesser than a differing image.
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+## Custom Tensorflow Model
+
+This was built on top of Xception
+
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
