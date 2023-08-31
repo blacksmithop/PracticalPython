@@ -14,7 +14,7 @@ print(words_in_text)
 # ['the', 'cat', 'sat', 'on', 'the', 'mat']
 ```
 
-***
+First we create the empty vector
 
 ```python
 one_hot_encoding = [[] for _ in words_in_text]
