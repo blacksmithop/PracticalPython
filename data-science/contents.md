@@ -14,6 +14,6 @@ AI, ML, Mathematics & Statistics
 
 ### [Transfer Learning](machine-learning/transfer-learning-101.md)
 
-* [Neural Networks](machine-learning/neural-networks.md)
+* [Neural Networks](machine-learning/neural-networks/)
 * [Convolutional Neural Networks](machine-learning/cnn.md)
 * [Transfer Learning](machine-learning/transfer-learning-101.md)
