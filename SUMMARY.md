@@ -27,7 +27,7 @@
 ## 💻 Web
 
 * [🕸 aiohttp](web/aiohttp.md)
-* [Swagger OpenAPI](web/swagger-openapi.md)
+* [💆♂ Swagger OpenAPI](web/swagger-openapi.md)
 
 ## 🤑 Salesforce
 

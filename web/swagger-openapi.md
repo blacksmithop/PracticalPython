@@ -1,4 +1,4 @@
-# Swagger OpenAPI
+# 💆♂ Swagger OpenAPI
 
 {% swagger src="../.gitbook/assets/openapi.json" path="/" method="get" %}
 [openapi.json](../.gitbook/assets/openapi.json)
