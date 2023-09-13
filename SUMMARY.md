@@ -1,26 +1,58 @@
 # Table of contents
 
-* [🐍 Practical Python](README.md)
+## 🅰 Azure - MSAL (Authentication)
 
-## 🔬 data science
+* [🗳 Container Apps](README.md)
+* [🗝 OAuth2 Authorization](azure-msal-authentication/oauth2-authorization.md)
+* [🤝 Get Access Token](azure-msal-authentication/get-access-token.md)
+* [🟢 Getting started](azure-msal-authentication/getting-started.md)
+* [🔧 Configuration](azure-msal-authentication/configuration.md)
 
-* [🌳 Contents](data-science/contents.md)
-* [📖 Natural Language Processing](data-science/natural-language-processing/README.md)
-  * [🟡 Embeddings 101](data-science/natural-language-processing/embeddings-101/README.md)
-    * [⏺ Word Embeddings](data-science/natural-language-processing/embeddings-101/word-embeddings/README.md)
-      * [🔴 One-hot encoding](data-science/natural-language-processing/embeddings-101/word-embeddings/one-hot-encoding.md)
-      * [1⃣ Numerical encoding](data-science/natural-language-processing/embeddings-101/word-embeddings/numerical-encoding.md)
-  * [🔢 Term Frequency](data-science/natural-language-processing/term-frequency.md)
-* [🤖 Machine Learning](data-science/machine-learning/README.md)
-  * [🧠 Neural Networks](data-science/machine-learning/neural-networks/README.md)
-    * [Save a Model (Sequential)](data-science/machine-learning/neural-networks/save-a-model-sequential.md)
-  * [📓 CNN](data-science/machine-learning/cnn.md)
-  * [🟠 Transfer Learning 101](data-science/machine-learning/transfer-learning-101.md)
-* [📅 Data Ingestion](data-science/data-ingestion.md)
-* [🛫 Deep Learning](data-science/deep-learning/README.md)
-  * [😮 Face Recognition feat: Siamese Networks](data-science/deep-learning/face-recognition-feat-siamese-networks.md)
+## 💡 Spark NLP
 
-## 🤖 Transformers
+* [⚡ Spark NER](spark-nlp/spark-ner.md)
 
-* [🪜 Introduction](transformers/introduction.md)
-* [🤓 Reference](transformers/reference.md)
+## GUI
+
+* [🐦 Dearpygui](gui/dearpygui.md)
+
+## concurrency
+
+* [🛣 Introduction](concurrency/introduction.md)
+
+## Databases
+
+* [🗃 Sqlite3](databases/sqlite3.md)
+
+## 💻 Web
+
+* [🕸 aiohttp](web/aiohttp.md)
+* [Swagger OpenAPI](web/swagger-openapi.md)
+
+## 🤑 Salesforce
+
+* [🍎 Create app](salesforce/create-app.md)
+* [🔁 Connected App](salesforce/connected-app.md)
+* [😁 simple\_salesforce](salesforce/simple\_salesforce.md)
+* [🧑🦰 simple\_salesforce: Add Contact](salesforce/simple\_salesforce-add-contact.md)
+* [😗 simple\_salesforce: Add Lead](salesforce/simple\_salesforce-add-lead.md)
+* [🔳 Custom Button Layout](salesforce/custom-button-layout.md)
+* [🌊 Flow](salesforce/flow.md)
+* [🔐 Credentials](salesforce/credentials.md)
+* [❔ Design Idea](salesforce/design-idea.md)
+* [🍿 Create Custom Object](salesforce/create-custom-object.md)
+* [🌏 Use External API](salesforce/use-external-api.md)
+
+## ⚡ Lightning Web Component
+
+* [⛈ Lightning Web Component Creation](lightning-web-component/lightning-web-component-creation.md)
+* [👶 Basics](lightning-web-component/basics.md)
+* [🖖 Data Binding](lightning-web-component/data-binding.md)
+
+## 👨⚕ Docx
+
+* [📖 docxtpl - Dynamic table](docx/docxtpl-dynamic-table.md)
+
+## ☄ PubSub
+
+* [👻 Publisher Subscriber Model](pubsub/publisher-subscriber-model.md)
